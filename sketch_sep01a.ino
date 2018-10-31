@@ -22,10 +22,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "capam-93f7b.firebaseio.com"
-#define FIREBASE_AUTH "jDX7IUSHcRPb9pRHBMeeIVLvqNrwQmgwcmjz7mm8"
-#define WIFI_SSID "fasaakk"
-#define WIFI_PASSWORD "jaibalayya"
+#define FIREBASE_HOST "**********.firebaseio.com"
+#define FIREBASE_AUTH "***********"
+#define WIFI_SSID "*****"
+#define WIFI_PASSWORD "*********"
 
 void setup() {
   Serial.begin(9600);
